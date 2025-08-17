@@ -7,7 +7,6 @@ drop table if exists proveedores;
 drop table if exists proveedores_productos;
 drop table if exists productos;
 
-
 CREATE TABLE departamentos(
   codigo int AUTO_INCREMENT,
   nombre varchar(20),
